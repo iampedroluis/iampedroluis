@@ -1,6 +1,6 @@
-<div align="center">
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=5A24F7&center=true&vCenter=true&repeat=false&width=435&height=56&lines=Pedro+Luis+Gutierrez)](https://git.io/typing-svg)
-</div>
+
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=5A24F7&center=true&vCenter=true&repeat=false&width=435&height=56&lines=Desarrollador+Web+Front-+End+%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>
