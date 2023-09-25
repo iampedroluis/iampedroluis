@@ -3,10 +3,11 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/" target="_blank">
+  <a href="[https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/)" onclick="window.open(this.href); return false;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
+
 
 # 💻 Mis Conocimiento de Tecnologías:
 
