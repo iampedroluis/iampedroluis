@@ -3,7 +3,7 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/">
+  <a href="https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 </p>
