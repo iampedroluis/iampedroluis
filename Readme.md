@@ -3,8 +3,8 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/)" onclick="window.open(this.href); return false;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="[https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/](https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/)">
+    <img align="center" src=["https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg)" height="30" width="40" />
   </a>
 </p>
 
