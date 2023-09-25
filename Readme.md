@@ -1,23 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="435" height="56" viewBox="0 0 435 56">
-  <defs>
-    <!-- Define un gradiente lineal -->
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <!-- Definir los colores del gradiente -->
-      <stop offset="0%" style="stop-color:#5A24F7" />
-      <stop offset="100%" style="stop-color:#FF00FF" />
-    </linearGradient>
-  </defs>
-  <!-- Aplica el gradiente al texto y centra vertical y horizontalmente -->
-  <text x="50%" y="50%" font-family="Arial" font-size="32" fill="url(#gradient)" text-anchor="middle" alignment-baseline="middle">
-    Pedro Luis Gutierrez
-  </text>
-</svg>
-
-
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=5A24F7&center=true&vCenter=true&repeat=false&width=435&height=56&lines=Desarrollador+Web+Front-+End+%F0%9F%92%BB)](https://git.io/typing-svg)
-</div>
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=5A24F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=56&lines=Pedro+Luis+Gutierrez;Desarrollador+Web+Front+-+End+%F0%9F%92%BB)](https://git.io/typing-svg)</div>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
