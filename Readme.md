@@ -7,7 +7,13 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 </p>
+  
+👨‍💻 Actualmente estoy Trabajando en el Proyecto de CodeMind! Aportaremos un Granito para enseñar Lenguajes de Programacion
+🎮 Video juego Favorito? TODOS!!!!!
+📌 Mi frases Favoritas: "Creer es Crear" y "Lo imposible es lo que aun no intentas"
+📚 Soy un Biblioteca de Datos curiosos almacenados en mi disco duro que en algun momento son un buen tema de conversacion 
 
+mas alla de los datos curios tambien conozco de distintas Tecnologias
 
 # 💻 Mis Conocimiento de Tecnologías:
 
