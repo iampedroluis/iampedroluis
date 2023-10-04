@@ -7,7 +7,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 </p>
- 
+ <hr>
 <p align="left">👨‍💻 Actualmente estoy Trabajando en el Proyecto de CodeMind! Aportaremos un Granito para enseñar Lenguajes de Programacion</p>
 <p align="left">🎮 Video juego Favorito? TODOS!!!!!</p>
 <p align="left">📌 Mi frases Favoritas: "Creer es Crear" y "Lo imposible es lo que aun no intentas"</p>
