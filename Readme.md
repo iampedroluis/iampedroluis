@@ -9,11 +9,11 @@
 </p>
  <hr>
 <p align="left">👨‍💻 Actualmente estoy Trabajando en el Proyecto de CodeMind! Aportaremos un Granito para enseñar Lenguajes de Programacion</p>
-<p align="left">🎮 Video juego Favorito? TODOS!!!!!</p>
+<p align="left">🎮 Video juego Favorito? CODWZ </p>
 <p align="left">📌 Mi frases Favoritas: "Creer es Crear" y "Lo imposible es lo que aun no intentas"</p>
-<p align="left">📚 Soy un Biblioteca de Datos curiosos almacenados en mi disco duro que en algun momento son un buen tema de conversacion </p>
+<p align="left">🎞 Pelicula? Inception y Serie? DARK </p>
 
-mas alla de los datos curios tambien conozco de distintas Tecnologias
+
 
 # 💻 Mis Conocimiento de Tecnologías:
 
