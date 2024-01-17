@@ -17,7 +17,7 @@
 
 
 
-# 💻 Mis Conocimiento de Tecnologías:
+# 💻 Mis Conocimientos de Tecnologías:
 
 <h3 align="left">Lenguajes y  Herramientas Front-End:</h3>
 <div style="display: flex; align-items: center;">
