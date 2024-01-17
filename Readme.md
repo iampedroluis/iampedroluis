@@ -1,4 +1,4 @@
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=40&pause=1000&color=5A24F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=56&lines=Pedro+Luis+Gutierrez;Desarrollador+Web+Front+-+End+%F0%9F%92%BB)](https://git.io/typing-svg)</div>  
+![image](https://github.com/iampedroluis/iampedroluis/assets/83560861/b91fe722-2521-4691-a144-049f8a3406ca)### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=40&pause=1000&color=5A24F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=56&lines=Pedro+Luis+Gutierrez;Desarrollador+Web+Front+-+End+%F0%9F%92%BB)](https://git.io/typing-svg)</div>  
   ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5E15F7&width=435&lines=Desarrollador+Web+Front-End+%F0%9F%92%BB)](https://git.io/typing-svg)</div> 
 
 <h3 align="left">Contactame:</h3>
@@ -42,6 +42,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+  <img src="https://vectorwiki.com/images/vlMCF__appium.svg" alt="selenium" width="40" height="40" />
 </div>
 
 <h3 align="left">Otros conocimientos:</h3>
