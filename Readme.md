@@ -31,8 +31,8 @@
 <h3 align="left">Lenguajes y  Herramientas Back-End:</h3>
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="backfround-color: #fffff" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="figma" width="60" height="40" />
 </div>
 
 <h3 align="left">Lenguajes y  Herramientas Testing:</h3>
