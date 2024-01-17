@@ -1,12 +1,6 @@
-###############################################################
-##################################
-#####################
-###########
-#####
-##
-#  
 
-##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=5E15F7&random=false&width=435&lines=Pedro+Luis+Gutierrez)](https://git.io/typing-svg)</div>
+
+##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=5E15F7&center=true&vCenter=true&random=false&width=650&height=100&lines=Pedro+Luis+Gutierrez)](https://git.io/typing-svg)</div>
   ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5E15F7&width=435&lines=Desarrollador+Web+Front-End+%F0%9F%92%BB)](https://git.io/typing-svg)</div> 
 
 <h3 align="left">Contactame:</h3>
