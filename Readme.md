@@ -33,6 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="backfround-color: #fffff" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="figma" width="60" height="40" />
+  ### <div align="center" style="background-color: #ffffff; border-radius: 10px; padding: 10px;">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=40&pause=1000&color=5A24F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=56&lines=Pedro+Luis+Gutierrez;Desarrollador+Web+Front+-+End+%F0%9F%92%BB)](https://git.io/typing-svg)
+</div>  
+
+##### <div align="center" style="background-color: #ffffff; border-radius: 10px; padding: 10px;">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5E15F7&width=435&lines=Desarrollador+Web+Front-End+%F0%9F%92%BB)](https://git.io/typing-svg)
+</div>
+
 </div>
 
 <h3 align="left">Lenguajes y  Herramientas Testing:</h3>
