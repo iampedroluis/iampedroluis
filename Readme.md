@@ -10,10 +10,8 @@
   </a>
 </p>
  <hr>
-<p align="left">👨‍💻 ¿Nuevo Reto?</p>
-<p align="left">🎮 Video juego Favorito? CODWZ </p>
-<p align="left">📌 Mi frases Favoritas: "Creer es Crear" y "Lo imposible es lo que aun no intentas"</p>
-<p align="left">🎞 Pelicula? Inception y Serie? DARK </p>
+<p align="left">👨‍💻 Protafolio: <a>https://iampedroluisdev.netlify.app/ </a> </p>
+
 
 
 
