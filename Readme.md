@@ -30,14 +30,17 @@
 
 <h3 align="left">Lenguajes y  Herramientas Back-End:</h3>
 <div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="java logo" />
+  <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="40" alt="csharp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="python logo" />
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40" style="backfround-color: #fffff" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="figma" width="100" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="100" height="40" />
 
 
 </div>
 
-<h3 align="left">Lenguajes y  Herramientas Testing:</h3>
+<h3 align="left">Herramientas Testing:</h3>
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/cypress-icon.svg" alt="cypress" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
