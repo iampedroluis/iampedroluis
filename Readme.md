@@ -17,6 +17,15 @@
 
 # 💻 Mis Conocimientos de Tecnologías:
 
+<h3 align="left">Lenguajes y  Herramientas Back-End:</h3>
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="50" alt="java logo" />
+  <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="40" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40" style="backfround-color: #fffff" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="80" height="40" />
+</div>
+
 <h3 align="left">Lenguajes y  Herramientas Front-End:</h3>
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -28,17 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="figma" width="40" height="40" />
 </div>
 
-<h3 align="left">Lenguajes y  Herramientas Back-End:</h3>
-<div style="display: flex; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="java logo" />
-  <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="40" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="python logo" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40" style="backfround-color: #fffff" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="100" height="40" />
 
-
-</div>
 
 <h3 align="left">Herramientas Testing:</h3>
 <div style="display: flex; align-items: center;">
