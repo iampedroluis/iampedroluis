@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white;" >
+
 ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=4581F7&center=true&vCenter=true&multiline=true&width=435&lines=Pedro+Gutierrez)](https://git.io/typing-svg)</div>
   ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=4581F7&center=true&vCenter=true&multiline=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)</div> 
 
@@ -60,4 +60,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=iampedroluis&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iampedroluis&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedroluis&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
