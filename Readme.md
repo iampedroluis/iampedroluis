@@ -1,7 +1,5 @@
 
-
-##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=5E15F7&center=true&vCenter=true&random=false&width=650&height=100&lines=Pedro+Luis+Gutierrez)](https://git.io/typing-svg)</div>
-  ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5E15F7&width=435&lines=Software+Developer%F0%9F%92%BB)](https://git.io/typing-svg)</div> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=4581F7&center=true&vCenter=true&multiline=true&width=435&lines=Pedro+Gutierrez;Sofrware+Developer)](https://git.io/typing-svg)
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
@@ -28,8 +26,8 @@
 
 <h3 align="left">Lenguajes y  Herramientas Front-End:</h3>
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
@@ -49,12 +47,12 @@
 
 <h3 align="left">Otros conocimientos:</h3>
 <div style="display: flex; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-   <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" height="40" alt="jira logo" />
-  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" height="40" alt="jira logo" />
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="jira logo" />
+   <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" height="50" alt="jira logo" />
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" height="50" alt="jira logo" />
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50" alt="jira logo" />
 </div>
 
 # 📊 Mi Estadisticas en Github:
