@@ -2,7 +2,7 @@
 ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=4581F7&center=true&vCenter=true&multiline=true&width=435&lines=Pedro+Gutierrez)](https://git.io/typing-svg)</div>
   ##### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=4581F7&center=true&vCenter=true&multiline=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)</div> 
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-luis-gutierrez-contreras/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="30" width="40" />
@@ -14,7 +14,7 @@
 
 
 
-# 💻 Mis Conocimientos de Tecnologías:
+# 💻Conocimientos de Tecnologías:
 
 <h3 align="left">Lenguajes y  Herramientas Back-End:</h3>
 <div style="display: flex; align-items: center;">
@@ -56,7 +56,7 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50" alt="jira logo" />
 </div>
 
-# 📊 Mi Estadisticas en Github:
+# 📊Estadisticas:
 ![](https://github-readme-stats.vercel.app/api?username=iampedroluis&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iampedroluis&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedroluis&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
