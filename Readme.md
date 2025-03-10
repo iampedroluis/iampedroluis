@@ -9,7 +9,7 @@
   </a>
 </p>
  <hr>
-<p align="left">👨‍💻 Protafolio: <a href="https://iampedroluisdev.netlify.app/" target="_blank">https://iampedroluisdev.netlify.app/ </a> </p>
+<p align="left">👨‍💻 Protafolio: <a href="https://iampedroluisdev.netlify.app/" target="_blank">iampedroluisdev/ </a> </p>
 
 
 
